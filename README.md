@@ -8,13 +8,13 @@ Genshin impact released on September 28, 2020. With a player base of **50 millio
 
   ![image](https://user-images.githubusercontent.com/99848549/158375721-dc6a601a-2f01-4700-b432-8df5ef454381.png)
   
-  ## Making an account
+  # Making an account
   ![image](https://user-images.githubusercontent.com/99848549/158377541-b01d5789-5da5-4041-aea3-eafb29736333.png)
 
 Once the game is downloaded you are required to create an account first. You can either use your twitter, google, facebook account or just create a mihoyo account which is
 a safer option. You will also need to choose from the following servers: Asia, Eu, NA, TW HK MO.
 
-  ## Starting the game
+  # Starting the game
   
   Once logged in you are greeted by an opening cutscene which will tell you more about the lore and main story of Genshin Impact. 
   **Searching for your lost twin**.
